@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  background-color: white;
+  text-align: center;
+  padding: 60px;
+}
+.card {
+  height: 150px;
+  width: 250px;
+  padding: 10px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #2b2c49, #303150, #b5b9ff);
+}
+.button {
+  height: 35px;
+  width: 60px;
+  border-radius: 5px;
+  border-width: none;
+  color: #303150;
+  background-color: #f8fafc;
+  border-width: 0px;
+  text-align: center;
+  padding: 8px;
+}
